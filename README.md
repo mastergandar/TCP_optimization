@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=mastergandar&repo=TCP_optimization&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=mastergandar&repo=TCP_optimization&theme=radical&show_owner=True)
 
 </div>
 
@@ -32,6 +32,6 @@ ____
 </div>
 
 ____
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastergandar&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastergandar&layout=compact) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastergandar&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastergandar&layout=compact&exclude_repo=Diplom_Py) |
 |:----:|:----:|
 ____
